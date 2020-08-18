@@ -1,0 +1,1 @@
+Tanto la carpeta lib como resources han de ir dentro de Practica5\src\codigo , Practica6\src\codigo para que compile
